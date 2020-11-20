@@ -1,4 +1,4 @@
-# Analyzing Song Popularity Using Spotify’s Audio Features 🎶
+# 🎶 Analyzing Song Popularity Using Spotify’s Audio Features 
 
 🎵 Out of curiosity of different components of music as well as potential associations between music features and song popularity, this analysis investigates the relationship between music data - specifically audio features from the Spotify’s database, such as tempo and loudness - and song popularity measured by Spotify’s popularity index. 
 
